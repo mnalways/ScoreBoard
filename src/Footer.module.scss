@@ -1,0 +1,23 @@
+.footerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    width: 100%;
+}
+.footerInput {
+    width: 70%;
+    height: 40px;
+    background-color: white;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.6);
+    padding: 4px
+}
+
+.footerButton {
+    width: 20%;
+    margin-left: 12px;
+    border-radius: 6px;
+
+}

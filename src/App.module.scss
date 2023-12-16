@@ -1,0 +1,18 @@
+.AppContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(253, 244, 244);
+    height: 100vh;
+}
+
+.scoreBoardContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(204, 204, 234);
+    padding-top: 32px;
+    // padding-bottom: 32px;
+    width: 35%;
+}

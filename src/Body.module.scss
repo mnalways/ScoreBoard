@@ -1,0 +1,56 @@
+.bodyContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+    border-top: 2px solid black;
+}
+
+.RowContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    // margin-bottom: 12px;
+    border-bottom: 1px solid rgb(206, 202, 202);
+    height: 50px
+}
+
+.winner {
+    width: 9%;
+    color: rgb(175, 175, 6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.crown {
+    width: 9%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Button {
+    width: 9%;
+    color: rgb(162, 160, 160);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.points {
+    width: 14%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nameContainer{
+    width: 50%;
+    font-size: 18px;
+    color: rgb(154, 151, 151);
+    padding-left: 12px;
+}
